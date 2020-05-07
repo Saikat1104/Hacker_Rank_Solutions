@@ -1,2 +1,2 @@
-# Hacker_Rank_Solutions
-FInd all possible solutions for the Hacker Rank problems in here . Happy Coding 
+# Hacker_Rank_python_Solutions
+Find all possible python solutions for the Hacker Rank problems in here . Happy Coding 
